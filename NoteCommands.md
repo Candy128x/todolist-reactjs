@@ -8,6 +8,14 @@
 - => npm start
 
 
+### install fontawsome
+- => npm i --save @fortawesome/fontawesome-svg-core
+- => npm i --save @fortawesome/free-solid-svg-icons
+- => npm i --save @fortawesome/react-fontawesome
+
+### For Animation
+- => npm i -S react-flip-move
+
 
 ---
 - if got some error
