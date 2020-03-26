@@ -13,7 +13,7 @@
 ---
 ## To Do List in ReactJS
 <video width="400" controls>
-  <source src="/imgs-readme/vids/record_200327-0109-am_v6b.mp4" type="video/webm">
+  <source src="/imgs-readme/vids/record_200327-0109-am_v6b.webm" type="video/webm">
   Your browser does not support HTML5 video.
 </video>
 
@@ -22,8 +22,4 @@
 1) Add a item
 2) Delete a item
 3) Edit a item
-
----
-## Link
->github.io
 
